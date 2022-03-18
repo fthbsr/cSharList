@@ -1,0 +1,15 @@
+/Users/fatihbasar/Desktop/List Collection/bin/Debug/net6.0/List Collection
+/Users/fatihbasar/Desktop/List Collection/bin/Debug/net6.0/List Collection.deps.json
+/Users/fatihbasar/Desktop/List Collection/bin/Debug/net6.0/List Collection.runtimeconfig.json
+/Users/fatihbasar/Desktop/List Collection/bin/Debug/net6.0/List Collection.dll
+/Users/fatihbasar/Desktop/List Collection/bin/Debug/net6.0/List Collection.pdb
+/Users/fatihbasar/Desktop/List Collection/obj/Debug/net6.0/List Collection.csproj.AssemblyReference.cache
+/Users/fatihbasar/Desktop/List Collection/obj/Debug/net6.0/List Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihbasar/Desktop/List Collection/obj/Debug/net6.0/List Collection.AssemblyInfoInputs.cache
+/Users/fatihbasar/Desktop/List Collection/obj/Debug/net6.0/List Collection.AssemblyInfo.cs
+/Users/fatihbasar/Desktop/List Collection/obj/Debug/net6.0/List Collection.csproj.CoreCompileInputs.cache
+/Users/fatihbasar/Desktop/List Collection/obj/Debug/net6.0/List Collection.dll
+/Users/fatihbasar/Desktop/List Collection/obj/Debug/net6.0/refint/List Collection.dll
+/Users/fatihbasar/Desktop/List Collection/obj/Debug/net6.0/List Collection.pdb
+/Users/fatihbasar/Desktop/List Collection/obj/Debug/net6.0/List Collection.genruntimeconfig.cache
+/Users/fatihbasar/Desktop/List Collection/obj/Debug/net6.0/ref/List Collection.dll
